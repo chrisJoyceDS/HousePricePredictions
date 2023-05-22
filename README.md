@@ -12,9 +12,6 @@ This README Covers:
 - Sources
 - Powerpoint Presentation
 
-## Background:
-GPU's became popular in the the early 2000s by NVIDIA and ATI (which is currently a part of AMD). Originally designed for graphics processing (hence the name Graphic Processing Units), GPU's started seeing prominence in Machine Learning and Cryptocurrency spaces over the last 20 years. The market has been almost entirely owned by NVIDIA and AMD, but with the rise in Personal Computer and Console sales during the pandemic and the resulting shortage of chips, this provided an interesting opportunity for Intel who has been the dominant CPU manufacturer
-
 ## Problem Statement:
 You've been hired by a new brokerage in Ames, Iowa called Aimless Real Estate LLC. Aimless has hired you as a datascientist to analyze data on property sales over the years to help them identify key properties to target for their services. This is not a very technical audience, as such your challenge is to identify any patterns between a house's value and its costs in relation to a predicted sales price, and be able to describe this information in a way your client will understand.
 
